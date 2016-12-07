@@ -1,0 +1,30 @@
+@CHARSET "ISO-8859-1";
+.button1 {
+    background-color: #80ff00; /* Green */
+    display: inline-block;
+    color: black;
+    padding: 14px 28px;
+    text-align: center;
+    border-style:groove;
+    
+    font-size: 16px;
+}
+
+.button2 {
+    background-color: #994c00; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-style:groove;
+    
+}
+
+.in1{
+border:dark;
+color:sans-serif-light;
+font-family: Verdana, Arial;
+}
